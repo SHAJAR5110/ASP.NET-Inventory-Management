@@ -1,0 +1,21 @@
+@model List<ProductInventoryApp.Models.Product>
+
+<h2>Product List</h2>
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var product in Model)
+    {
+        <tr>
+            <td>@product.Name</td>
+            <td>@product.Price</td>
+            <td>
+                <a href="/Product/Details/@product.Id">Details</a>
+            </td>
+        </tr>
+    }
+</table>
+<a href="/Product/Add">Add Product</a>

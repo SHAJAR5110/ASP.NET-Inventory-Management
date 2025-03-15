@@ -1,0 +1,12 @@
+/workspaces/ASP.NET-Inventory-Management/ProductInventoryApp/publish/ProductInventoryApp
+/workspaces/ASP.NET-Inventory-Management/ProductInventoryApp/publish/publish/web.config
+/workspaces/ASP.NET-Inventory-Management/ProductInventoryApp/publish/appsettings.Development.json
+/workspaces/ASP.NET-Inventory-Management/ProductInventoryApp/publish/appsettings.json
+/workspaces/ASP.NET-Inventory-Management/ProductInventoryApp/publish/publish/appsettings.Development.json
+/workspaces/ASP.NET-Inventory-Management/ProductInventoryApp/publish/publish/appsettings.json
+/workspaces/ASP.NET-Inventory-Management/ProductInventoryApp/publish/publish/ProductInventoryApp.deps.json
+/workspaces/ASP.NET-Inventory-Management/ProductInventoryApp/publish/publish/ProductInventoryApp.runtimeconfig.json
+/workspaces/ASP.NET-Inventory-Management/ProductInventoryApp/publish/ProductInventoryApp.dll
+/workspaces/ASP.NET-Inventory-Management/ProductInventoryApp/publish/ProductInventoryApp.deps.json
+/workspaces/ASP.NET-Inventory-Management/ProductInventoryApp/publish/ProductInventoryApp.runtimeconfig.json
+/workspaces/ASP.NET-Inventory-Management/ProductInventoryApp/publish/ProductInventoryApp.pdb
